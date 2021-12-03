@@ -1,0 +1,22 @@
+
+{
+    "my_college_degrees": [
+        {
+           "degree": {
+               "school": "BU MET",
+               "major": "Software Development",
+               "type": "MS",
+               "year": 2022
+            }
+        },
+        {
+           "degree": {
+               "school": "VTU",
+               "major": "Information Technology",
+               "type": "BS",
+               "year": 2005
+            }
+        }
+    ]
+}
+
