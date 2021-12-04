@@ -2,7 +2,7 @@
  * On click event listener for button 'get information'
  */
 document.getElementById('fetchButton').addEventListener('click', function () {
-  getDegreeInfo('https://archanabvnl.github.io/CS601-HW5-Bhogaraju/data.json')
+  getDegreeInfo('data.json')
 })
 
 /**
