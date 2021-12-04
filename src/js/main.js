@@ -2,7 +2,7 @@
  * On click event listener for button 'get information'
  */
 document.getElementById('fetchButton').addEventListener('click', function () {
-  getDegreeInfo('/src/js/data.json')
+  getDegreeInfo('./src/js/data.json')
 })
 
 /**
