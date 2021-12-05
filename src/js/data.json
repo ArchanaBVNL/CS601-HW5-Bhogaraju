@@ -1,10 +1,10 @@
 {
 	"my_college_degrees": [{
         	"degree": {
-		    	"school": "BU MET",
-		    	"major": "Computer Science",
-		    	"type": "PhD",
-		    	"year": 2025
+		    	"school": "VTU",
+		    	"major": "Information Technology",
+		    	"type": "BS",
+		    	"year": 2005
         	}
      	}, {
 		"degree": {
@@ -15,10 +15,10 @@
 		}
 	}, {
 		"degree": {
-			"school": "VTU",
-			"major": "Information Technology",
-			"type": "BS",
-			"year": 2005
+			"school": "BU",
+			"major": "Computer Science",
+			"type": "PhD",
+			"year": 2025
 		}
 	}]
 }
