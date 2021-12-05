@@ -31,6 +31,7 @@ async function getDegreeInfo(url) {
     .then((data) => {
       // call displayData method to display Degree records on index.html
       displayData(JSON.parse(JSON.stringify(data)))
+      fetchButton.style.display = 'none'
     })
     .catch((error) => {
       document.getElementById('error').classList.add('showError')
