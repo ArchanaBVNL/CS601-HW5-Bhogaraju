@@ -1,5 +1,12 @@
 {
 	"my_college_degrees": [{
+        	"degree": {
+		    	"school": "BU MET",
+		    	"major": "Computer Science",
+		    	"type": "PhD",
+		    	"year": 2025
+        	}
+     	}, {
 		"degree": {
 			"school": "BU MET",
 			"major": "Software Development",
