@@ -12,7 +12,7 @@ document.getElementById('fetchButton').addEventListener('click', function () {
  * else if status is 404, display invalid url error
  * else for all other errors throw exception
  */
-async function getDegreeInfo(url) {
+const getDegreeInfo = async (url) => {
   let responseClone
   document.getElementById('error').classList.remove('showError')
   await fetch(url)
